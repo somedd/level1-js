@@ -13,7 +13,7 @@ dp.innerHTML += crtNum;
 }
 
 function clearNum() {
-dp.innerHTML = "";
+dp.innerHTML = "";  
 }
 
 function pushOpt(num) {
